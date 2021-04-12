@@ -1,1 +1,3 @@
-let teste
+const express = require("express");
+
+let app = express();
